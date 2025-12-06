@@ -29,17 +29,18 @@ body{
     margin-left: 50px;
 }
 .mypic{
-    width:300px;
-    height: 400px;
+    width:400px;
+    height: 500px;
     background-image: url(f76b3f7f-9c0d-4bca-8caf-95727e8ebab1.png);
     background-size: cover;
     border-radius: 1%;
-    margin-left: 100px;
+    margin-left: 180px;
+}
+.aboutme{
+    margin-top:50px;
+   display:flex;
 }
 .about{
     width:450px;
      margin-left: 100px;
-}
-.aboutme{
-   display:flex;
 }
